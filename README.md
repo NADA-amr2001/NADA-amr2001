@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NADA-amr2001
 - 👀 I’m interested in programming..
-- 🌱 I’m currently learning web developement , languages..
+- 🌱 I’m currently learning web developement ,mobile developement languages..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my personal account FB or insta ...
 
